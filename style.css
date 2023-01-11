@@ -1,0 +1,11 @@
+.header{
+    color: #ffffff;
+    font-size: 10vw;
+}
+
+.buttonX{
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    color: wheat;
+    margin: 2rem;
+}
